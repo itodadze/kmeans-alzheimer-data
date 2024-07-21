@@ -3,7 +3,7 @@
 
 გამოყენებული სტატია:
 https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE120584
-
+ 
 ნაბიჯები პროექტის გასაშვებად: 
     1. საიტიდან გადმოვწეროთ GSE120584_RAW.tar, ამოვაარქივოთ და ჩავაგდოთ data ფოლდერში
     2. cd fetcher
